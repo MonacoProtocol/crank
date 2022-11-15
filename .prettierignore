@@ -1,0 +1,7 @@
+# ignore all
+/*
+
+# except
+!/app
+!/server.ts
+!/client.ts

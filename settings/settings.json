@@ -1,0 +1,17 @@
+{
+  "server_run_timeout": 1000,
+  "program_ids": {
+    "devnet": {
+      "dev": "yxvZ2jHThHQPTN6mGC8Z4i7iVBtQb3eBGeURQuLSrG9",
+      "stable": "5Q2hKsxShaPxFqgVtQH3ErTkiBf8NGb99nmpaGw7FCrr"
+    },
+    "testnet": {
+      "dev": null,
+      "stable": "5Q2hKsxShaPxFqgVtQH3ErTkiBf8NGb99nmpaGw7FCrr"
+    },
+    "mainnet": {
+      "dev": "monacoUXKtUi6vKsQwaLyxmXKSievfNWEcYXTgkbCih",
+      "stable": "monacoUXKtUi6vKsQwaLyxmXKSievfNWEcYXTgkbCih"
+    }
+  }
+}
